@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1492895599 source:d:\programe-proiecte\codeblocks\minimizaredfa\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1493041735 source:d:\minimizaredfa\minimizaredfa\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1493038135 source:e:\minimizaredfa\minimizaredfa\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1493056707 source:f:\minimizaredfa\minimizaredfa\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
+1493058579 source:c:\users\robert\desktop\minimizaredfa\minimizaredfa\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+
